@@ -1,3 +1,4 @@
+![logo](https://github.com/Iyzer/Mirza/blob/main/DATA.jpg)
 <h1 align="center">Hi 👋, I'm Mirza Ibrahim Ali Baig</h1>
 <h3 align="center">A Aspiring Data Analyst & Scientist from India</h3>
 
